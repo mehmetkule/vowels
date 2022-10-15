@@ -3,8 +3,8 @@
 ## go build
     --input = Reading file 
     --Output = Write File
-    --vovels Vovels Type for ENGLISH = 'E' ,  for TURHISH = 't' and for KURDISH = 'k' 
+    --vovels Vovels Type for ENGLISH = 'E' ,  for TURKISH = 't' and for KURDISH = 'k' 
 
 ## Run 
-`` ./vowels vowels  --input .\data.csv --output memo.csv --vowels t
+`` ./vowels vowels  --input .\data.csv --output test.csv --vowels t
 ``
